@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nishitha Rao</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Python programmer from India</h3>
 
 - 🔭 I’m currently working on [Blog applicaton](https://github.com/Nishitha-B-Rao/blog)
 
