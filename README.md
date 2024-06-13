@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Blog applicaton](https://github.com/Nishitha-B-Rao/blog)
 
-- 🌱 I’m currently learning **Flutter, React**
+- 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **nishithabrao@gmail.com**
 
