@@ -76,7 +76,7 @@
 
 ## 🌺 **GitHub Aesthetics**
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=nishitha-rao&theme=calm&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Nishitha-B-Rao&theme=calm&hide_border=true" />
 </p>
 
 ---
