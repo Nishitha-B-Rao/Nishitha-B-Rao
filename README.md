@@ -1,50 +1,82 @@
-<h1 align="center">Hi 👋, I'm Nishitha Rao</h1>
-<h3 align="center">A Passionate Python Developer & Cloud Enthusiast</h3>
+# 🌸 **Nishitha Rao**
 
-🌟 **About Me**  
-🔭 Currently working on **Calm Down** - AI-Powered Wellness for a Peaceful Mind  
-🌱 Exploring **Cloud Computing & Flutter** to expand my tech stack  
-💡 Passionate about **AI, Backend Development, and DevOps**  
-📫 Reach me at **nishithabrao@gmail.com**  
+### *Software Developer • Cloud Enthusiast • Python & Go Developer*
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d3341776-14b1-4811-aef8-36a26c0a8b7a"
+       width="420"
+       style="border-radius: 18px;" />
+</p>
+
+
 
 ---
 
-### 🚀 Connect with Me  
+
+## 🌿 **About Me**
+
+✨ Software Developer at **Kyndryl**
+🧠 Building **Calm Down** – an AI-powered wellness platform
+☁️ Exploring **Azure | AWS | GCP**, DevOps, and scalable backend systems
+💙 Passionate about **AI, Cloud, GoLang & Python**
+📬 Reach me at **[nishithabrao@gmail.com](mailto:nishithabrao@gmail.com)**
+
+---
+
+## 🌐 **Connect With Me**
+
 <p align="left">
-  <a href="https://www.linkedin.com/in/nishitha-b-rao-631b9b267" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/nishitha-b-rao-631b9b267">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### 🛠️ Tech Stack & Tools  
-#### **Programming Languages**
+## 🎨 **Tech Stack**
+
+### 🖥️ Languages
+
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=python,go,js,c" />
 </p>
 
-#### **Web & Backend Development**
+### 🌐 Web / Backend
+
 <p align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=django,html,css" />
 </p>
 
-#### **Database & Cloud**
+### ☁️ Cloud
+
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=azure,aws,gcp" />
 </p>
 
-#### **Other Tools & Technologies**
+### 🗄 Databases
+
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### 🛠 DevOps & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions" />
 </p>
 
 ---
 
-🔥 **"Code. Learn. Innovate. Repeat."**  
+## 🌸 **Aesthetic Quote**
 
+> *“Code with clarity. Build with passion. Grow with purpose.”*
+
+---
+
+## 🌺 **GitHub Aesthetics**
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nishitha-rao&theme=calm&hide_border=true" />
+</p>
+
+---
